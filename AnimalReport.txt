@@ -1,0 +1,4 @@
+nombre cost: $8.0 (Population: 2, Food Cost Per Meal: $2.0, Meals A Day: 2)
+nombre cost: $8.0 (Population: 2, Food Cost Per Meal: $2.0, Meals A Day: 2)
+nombre cost: $8.0 (Population: 2, Food Cost Per Meal: $2.0, Meals A Day: 2)
+Total Costs: $24.0
